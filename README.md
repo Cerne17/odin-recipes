@@ -6,7 +6,6 @@ Software Engineer.
 This project is supposed to be simple, and cover the initial steps with
 HTMl and CSS. Through the Curriculum, these projects will become harder,
 more impressive and much more real life applicable.
-------------------------------------------------------------------------
 # How to view the pages on the web with Github
 You can publish a website directly from a public Github Repo to the Web.
 The site will be available under the URL that follows this pattern:
